@@ -1,3 +1,5 @@
 # myproject
 
-Kofi Adjei we are testing some git flow 
+Kofi Adjei we are testing some git flow
+God is good
+
